@@ -10,6 +10,17 @@
 </p>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&text=Welcome%20to%20My%20Profile!" alt="Header" />
+</div>
+
+<h1 align="center">Hi 👋! I'm SiYusup</h1>
+<h3 align="center">Software Engineering Student | Backend & Database Enthusiast</h3>
+
+<p align="center">
+  I am a <b>Software Engineering (Rekayasa Perangkat Lunak)</b> student at <b>SMK Negeri 10 Surabaya</b>. I have a strong passion for building scalable web applications, designing robust relational databases, and exploring software architecture. I enjoy managing my code environment in Neovim and am always eager to learn new technologies!
+</p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/syekh-yusuf-pramadi-116137384/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -61,17 +72,8 @@
 
 <br/>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">🔥 My Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME_GITHUB_KAMU.USERNAME_GITHUB_KAMU&" alt="Profile Views" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Commit Activity Graph" />
 </div>
