@@ -63,12 +63,13 @@
 
 <h2 align="center">📈 GitHub Commit Activity</h2>
 
-<div align="center">
-<h2 align="center">👨‍💻 About My Focus</h2>
+<h2 align="center">🐍 GitHub Contribution Grid</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+Database+Enthusiast;Always+Learning+New+Tech...;Open+for+Collaboration!" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_KAMU/USERNAME_GITHUB_KAMU/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_GITHUB_KAMU/USERNAME_GITHUB_KAMU/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME_GITHUB_KAMU/USERNAME_GITHUB_KAMU/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-</div>
+
