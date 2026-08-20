@@ -3,21 +3,10 @@
 </div>
 
 <h1 align="center">Hi 👋! I'm SiYusup</h1>
-<h3 align="center">Software Engineering Student | Backend & Database Enthusiast</h3>
+<h3 align="center">Software Engineering (RPL) Student @ SMK Negeri 10 Surabaya</h3>
 
 <p align="center">
-  I am currently studying <b>Software Engineering</b> at <b>Universitas Dinamika</b>. I have a strong passion for building scalable web applications, designing robust relational databases, and exploring software architecture. I enjoy managing my code environment in Neovim and am always eager to learn new technologies!
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&text=Welcome%20to%20My%20Profile!" alt="Header" />
-</div>
-
-<h1 align="center">Hi 👋! I'm SiYusup</h1>
-<h3 align="center">Software Engineering Student | Backend & Database Enthusiast</h3>
-
-<p align="center">
-  I am a <b>Software Engineering (Rekayasa Perangkat Lunak)</b> student at <b>SMK Negeri 10 Surabaya</b>. I have a strong passion for building scalable web applications, designing robust relational databases, and exploring software architecture. I enjoy managing my code environment in Neovim and am always eager to learn new technologies!
+  I am currently studying <b>Software Engineering (Rekayasa Perangkat Lunak)</b> at <b>SMK Negeri 10 Surabaya</b>. I have a strong passion for building scalable web applications, designing robust relational databases, and exploring software architecture. I enjoy managing my code environment in Neovim and am always eager to learn new technologies!
 </p>
 
 <div align="center">
@@ -72,8 +61,11 @@
 
 <br/>
 
-<h2 align="center">🔥 My Contribution Activity</h2>
+<h2 align="center">📈 GitHub Commit Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Commit Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=dracula&hide_border=true&area=true">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=dracula&hide_border=true&area=true">
+  </picture>
 </div>
