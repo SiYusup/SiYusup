@@ -59,17 +59,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" title="Flutter" />
 </p>
 
-<br/>
-
-<h2 align="center">📈 GitHub Commit Activity</h2>
-
-<h2 align="center">🐍 GitHub Contribution Grid</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usyup/usyup/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usyup/usyup/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/usyup/usyup/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
