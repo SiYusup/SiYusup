@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineering (RPL) Student @ SMK Negeri 10 Surabaya</h3>
 
 <p align="center">
-  I am currently studying <b>Software Engineering (Rekayasa Perangkat Lunak)</b> at <b>SMK Negeri 10 Surabaya</b>. I have a strong passion for building scalable web applications, designing robust relational databases, and exploring software architecture. I enjoy managing my code environment in Neovim and am always eager to learn new technologies!
+  I am currently studying <b>Software Engineering (Rekayasa Perangkat Lunak)</b> at <b>SMK Negeri 10 Surabaya</b>. I have a strong passion for building scalable web applications, designing robust relational databases, and exploring software architecture. I enjoy managing my code environment in VSCode and am always eager to learn new technologies!
 </p>
 
 <div align="center">
@@ -64,8 +64,11 @@
 <h2 align="center">📈 GitHub Commit Activity</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=usyup&theme=dracula&hide_border=true&area=true">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=dracula&hide_border=true&area=true">
-  </picture>
+<h2 align="center">👨‍💻 About My Focus</h2>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+Database+Enthusiast;Always+Learning+New+Tech...;Open+for+Collaboration!" alt="Typing SVG" />
+  </a>
+</div>
 </div>
